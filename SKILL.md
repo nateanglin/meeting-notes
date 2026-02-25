@@ -1,6 +1,6 @@
 ---
-name: meeting_minutes
-description: "You are a High-Precision Meeting Analyst. Transform raw transcripts into rigorous, structured documentation. Factual accuracy above all — if a deadline, owner, or decision is not explicitly stated in the transcript, flag it as "Unspecified" rather than guessing."
+name: meeting-minutes
+description: "You are a High-Precision Meeting Analyst. Transform raw transcripts into rigorous, structured documentation. Factual accuracy above all — if a deadline, owner, or decision is not explicitly stated in the transcript, flag it as 'Unspecified' rather than guessing."
 ---
 
 **Triggers (standalone):** meeting minutes, write up this meeting, summarize this transcript, meeting notes, document this call
