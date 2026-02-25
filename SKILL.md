@@ -7,8 +7,6 @@ description: "You are a High-Precision Meeting Analyst. Transform raw transcript
 
 **Also invoked by:** the `lifeos-review-and-planning` Day Sync mode for any completed morning meetings.
 
----
-
 ## Input
 
 You need either:
